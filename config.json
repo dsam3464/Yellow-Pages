@@ -13,31 +13,26 @@
                     "url": "https://www.baidu.com/",
                     "msg": "The BAIDU engine"
                 },
+            ]
+        }, 
+        { 
+            "header": "CityU",
+            "content": [
                 {
-                    "title": "Bing", 
-                    "url": "https://www.bing.com/",
-                    "msg": "The BING engine"
+                    "title": "CityU home page",
+                    "url": "https://www.cityu.edu.hk/",
+                    "msg": "CityU official website"
                 },
                 {
-                    "title": "搜狗搜索", 
-                    "url": "https://www.sogou.com/",
-                    "msg": "The SOGOU engine"
+                    "title": "Aims",
+                    "url": "https://banweb.cityu.edu.hk/pls/PROD/twbkwbis.P_GenMenu?name=bmenu.P_MainMnu",
+                    "msg": "Aims"
                 },
                 {
-                    "title": "Google-1",
-                    "url": "https://www.google.com/",
-                    "msg": null
+                    "title": "Canvas",
+                    "url": "https://canvas.cityu.edu.hk/",
+                    "msg": "Canvas"
                 },
-                {
-                    "title": "百度-1",
-                    "url": "https://www.baidu.com/",
-                    "msg": null
-                },
-                {
-                    "title": "Bing-1", 
-                    "url": "https://www.bing.com/",
-                    "msg": null
-                }
             ]
         }, 
         { 
