@@ -28,15 +28,15 @@ function fetchData() {
         xhr.open('GET', endpoint, true);
         xhr.send();
     });
-    p.then((notice) => {
-        buildData(notice);
+    p.then((section) => {
+        buildData(section);
     });
 }
 
-function buildData(source) {
+function buildData(sections) {
     const dom = document.getElementById("main");
     var innerString = "";
-    for (const section of source) {
+    for (const section of sections) {
         // section header
         let headerStr = `
             <div>
@@ -47,7 +47,7 @@ function buildData(source) {
         innerString += headerStr;
         // section body
         var linksStr = "";
-        for (const content of source.content) {
+        for (const content of section.content) {
             if (content.msg == null) {
                 let aStr = `
                     <a href="${content.url}" target="_blank">${content.title}</a>
