@@ -1,0 +1,21 @@
+* { 
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+    overflow-x: hidden;
+}
+a {
+    display: block;
+}
+a:hover {
+    color:rgb(25,202,173);
+    text-decoration:none;
+}
+a:link {
+    color:rgb(0, 0, 255);
+    text-decoration: none;
+}
+a:visited {
+    color:rgb(0, 0, 255);
+    text-decoration: none;
+}

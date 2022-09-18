@@ -1,0 +1,28 @@
+header {
+    margin: auto;
+    text-align: center;
+    font-size: 20pt;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color:#8dc63f;
+}
+footer{
+    clear: both;
+    font-size: 0.75em;
+    background-color: burlywood;
+    border:5px dotted cornflowerblue;
+}
+#main{
+    width: 98%;
+    margin: auto;
+}
+
+@media screen and (orientation: landscape) {
+    #main h3{
+        column-count: 4;
+    }
+}
+@media screen and (orientation: portrait) { 
+    #main h3{
+        column-count: 1;
+    }
+}
