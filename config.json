@@ -12,9 +12,9 @@
                     "title": "百度",
                     "url": "https://www.baidu.com/",
                     "msg": "The BAIDU engine"
-                },
+                }
             ]
-        }
+        },
         { 
             "header": "CityU",
             "content": [
@@ -32,9 +32,9 @@
                     "title": "Canvas",
                     "url": "https://canvas.cityu.edu.hk/",
                     "msg": "Canvas"
-                },
+                }
             ]
-        }
+        },
         { 
             "header": "CS网页",
             "content": [
