@@ -51,14 +51,12 @@ function buildData(sections) {
             if (content.msg == null) {
                 let aStr = `
                     <a href="${content.url}" target="_blank">${content.title}</a>
-                    <br>
                 `;
                 linksStr += aStr;
             }
             else {
                 let aStr = `
                     <a href="${content.url}" target="_blank" title="${content.msg}">${content.title}</a>
-                    <br>
                 `;
                 linksStr += aStr;
             }
@@ -66,7 +64,8 @@ function buildData(sections) {
         innerString += linksStr;
         // section footer
         let footerStr = `
-            </h3>    
+            </h3> 
+            <br>   
             </div>
         `;
         innerString += footerStr;
