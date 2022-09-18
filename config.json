@@ -19,28 +19,38 @@
                     "msg": "The BING engine"
                 },
                 {
+                    "title": "搜狗搜索", 
+                    "url": "https://www.sogou.com/",
+                    "msg": "The SOGOU engine"
+                },
+                {
                     "title": "Google-1",
                     "url": "https://www.google.com/",
-                    "msg": "The GOOGLE engine"
+                    "msg": null
                 },
                 {
                     "title": "百度-1",
                     "url": "https://www.baidu.com/",
-                    "msg": "The BAIDU engine"
+                    "msg": null
                 },
                 {
                     "title": "Bing-1", 
                     "url": "https://www.bing.com/",
-                    "msg": "The BING engine"
+                    "msg": null
                 }
             ]
         }, 
         { 
-            "header": "常用网页-2",
+            "header": "CS网页",
             "content": [
                 {
-                    "title": "Bing",
+                    "title": "GitHub",
                     "url": "https://github.com/",
+                    "msg": null
+                },
+                {
+                    "title": "L.C.",
+                    "url": "https://leetcode.com//",
                     "msg": null
                 }
             ]
