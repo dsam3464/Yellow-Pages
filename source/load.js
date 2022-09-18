@@ -22,7 +22,7 @@ function fetchData() {
         xhr.onreadystatechange = function() {
             if (this.readyState == 4 && this.status == 200) {
                 var response = JSON.parse(this.responseText);
-                resolve(response.notice);
+                resolve(response.section);
             }
         };
         xhr.open('GET', endpoint, true);
