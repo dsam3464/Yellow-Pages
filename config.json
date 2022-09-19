@@ -16,6 +16,26 @@
             ]
         },
         { 
+            "header": "邮箱",
+            "content": [
+                {
+                    "title": "Outlook",
+                    "url": "https://outlook.office.com/mail/",
+                    "msg": null
+                },
+                {
+                    "title": "Gmail",
+                    "url": "https://mail.google.com/mail/u/0/#inbox",
+                    "msg": null
+                },
+                {
+                    "title": "qq邮箱",
+                    "url": "https://mail.qq.com/",
+                    "msg": null
+                }
+            ]
+        },
+        { 
             "header": "CityU",
             "content": [
                 {
@@ -26,7 +46,7 @@
                 {
                     "title": "Aims",
                     "url": "https://banweb.cityu.edu.hk/pls/PROD/twbkwbis.P_GenMenu?name=bmenu.P_MainMnu",
-                    "msg": "Aims"
+                    "msg": "CityU student portal"
                 },
                 {
                     "title": "Canvas",
@@ -36,7 +56,127 @@
             ]
         },
         { 
-            "header": "CS网页",
+            "header": "UoE",
+            "content": [
+                {
+                    "title": "UoE home page",
+                    "url": "https://www.ed.ac.uk/",
+                    "msg": "UoE official site"
+                },
+                {
+                    "title": "myedin",
+                    "url": "https://www.myed.ed.ac.uk/myed-progressive/#/",
+                    "msg": "UoE student portal"
+                },
+                {
+                    "title": "Learn",
+                    "url": "https://www.learn.ed.ac.uk/ultra/course",
+                    "msg": null
+                },
+                {
+                    "title": "Path",
+                    "url": "https://path.is.ed.ac.uk/",
+                    "msg": null
+                },
+                {
+                    "title": "Path",
+                    "url": "https://path.is.ed.ac.uk/",
+                    "msg": null
+                },
+                {
+                    "title": "Timetable",
+                    "url": "https://www.ted.is.ed.ac.uk/UOE2223_SWS/shibtimetable.asp",
+                    "msg": null
+                }
+            ]
+        },
+        { 
+            "header": "Productivity",
+            "content": [
+                {
+                    "title": "Office365",
+                    "url": "https://www.office.com/?auth=2&home=1",
+                    "msg": null
+                },
+                {
+                    "title": "Google drive",
+                    "url": "https://myaccount.google.com/?utm_source=sign_in_no_continue&nlr=1",
+                    "msg": null
+                },
+                {
+                    "title": "OneDrive",
+                    "url": "https://uoe-my.sharepoint.com/personal/s2459334_ed_ac_uk/_layouts/15/onedrive.aspx",
+                    "msg": null
+                }
+            ]
+        },
+        { 
+            "header": "资源网站",
+            "content": [
+                {
+                    "title": "youtube",
+                    "url": "https://www.youtube.com/",
+                    "msg": null
+                },
+                {
+                    "title": "bili",
+                    "url": "https://www.bilibili.com/",
+                    "msg": null
+                },
+                {
+                    "title": "影视",
+                    "url": "http://www.fjisu2.com/",
+                    "msg": "飞极速"
+                },
+                {
+                    "title": "Mac资源网",
+                    "url": "https://mac-gm.com/",
+                    "msg": null
+                },
+                {
+                    "title": "百度网盘",
+                    "url": "https://pan.baidu.com/disk/main#/index?category=all",
+                    "msg": null
+                },
+                {
+                    "title": "网盘直链",
+                    "url": "https://www.kelongwo.com/project/baidu_pan/",
+                    "msg": null
+                }
+            ]
+        },
+        { 
+            "header": "实用工具",
+            "content": [
+                {
+                    "title": "百度翻译",
+                    "url": "https://fanyi.baidu.com/?aldtype=16047#auto/zh",
+                    "msg": null
+                },
+                {
+                    "title": "grammarly",
+                    "url": "https://app.grammarly.com/",
+                    "msg": "语法检查"
+                },
+                {
+                    "title": "2D图像生成",
+                    "url": "https://www.desmos.com/calculator?lang=zh-CN",
+                    "msg": null
+                },
+                {
+                    "title": "3D图像生成",
+                    "url": "https://www.geogebra.org/3d?lang=en",
+                    "msg": null
+                }
+                {
+                    "title": "繁体字转换",
+                    "url": "https://www.aies.cn/",
+                    "msg": null
+                }
+            ]
+        },
+        { 
+            "header": "网页管理",
             "content": [
                 {
                     "title": "GitHub",
@@ -44,8 +184,8 @@
                     "msg": null
                 },
                 {
-                    "title": "L.C.",
-                    "url": "https://leetcode.com/",
+                    "title": "json debug",
+                    "url": "https://c.runoob.com/front-end/53/",
                     "msg": null
                 }
             ]
